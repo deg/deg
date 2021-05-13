@@ -23,6 +23,8 @@ Currently, most of my work is for clients, and is mostly in JavaScript or (all t
 <!--
 **deg/deg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+See ideas here: https://catalins.tech/how-to-create-a-kickass-github-profile-page?utm_source=tldrnewsletter
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
