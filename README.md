@@ -4,7 +4,10 @@ I am a programmer, a manager, and an entrepreneur. Over my career, I founded or 
 
 I've worked at all levels in these companies, but my true passion is using the best tools to create the best tools. For me, this usually means programming, but I also enjoy woodworking, cooking, and other creative skills.
 
-Currently, most of my work is for clients, and is mostly in Python or JavaScript or (all too often) in Google Docs or meetings.  But, my current favorite langauge is Clojure, which combines the best ideas from Lisp, Functional Programming, and the giant JVM and JavaScript ecosystems.
+My favorite modern language is Clojure, which combines the best ideas from Lisp, Functional Programming, and the giant JVM and JavaScript ecosystems. But like so many Lisps, it seems to be stuck in a niche.  And, even more than in the past, my productivity is gated more on the size of the ecosystem and the quality of the LLM support than on the intrinsic power of the language.
+
+So, all of my work for clients and most of my personal work is now in Python or JavaScript or (all too often) in Google Docs or meetings.
+
 
 ### Website
 
