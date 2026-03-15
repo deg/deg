@@ -1,6 +1,6 @@
 ## Who I am
 
-I am a programmer, a manager, and an entrepreneur. Over my career, I founded or co-founded Degel Software, 2AM Games, and Vringo.
+I am a programmer, a manager, and an entrepreneur. Over my career, I founded or co-founded Degel Software, 2AM Games, Vringo, and MarketBuzzr.
 
 I've worked at all levels in these companies, but my true passion is using the best tools to create the best tools. For me, this usually means programming, but I also enjoy woodworking, cooking, and other creative skills. Today, more and more, this includes using LLM tools to accelerate creativity.
 
